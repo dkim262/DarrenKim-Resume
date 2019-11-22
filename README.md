@@ -1,6 +1,4 @@
+# *Darren Kim - Economics/Administrative Studies*
 
-# Welcome to LearnCS8 Resume Website
-
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
-
-Special thanks to the open source bootstrap libraries that made this website possible. 
+Hi! This is my first ever resume that I have custom-made. I was provided a template and messed around with it, and here is the end product! I hope you guys enjoy and also play around with coding for yourselves-it's pretty enjoyable! 
+![This is my custom made resume using the GitHub template!](img/DarrenKim-Economics.png)
